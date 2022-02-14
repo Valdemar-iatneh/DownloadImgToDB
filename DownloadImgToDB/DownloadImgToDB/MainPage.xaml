@@ -4,7 +4,7 @@
              x:Class="DownloadImgToDB.MainPage">
 
     <StackLayout>
-        
+        <Label Text="reres"/>
     </StackLayout>
 
 </ContentPage>

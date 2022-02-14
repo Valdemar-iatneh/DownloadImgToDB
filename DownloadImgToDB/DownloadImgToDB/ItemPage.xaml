@@ -4,10 +4,10 @@
              x:Class="DownloadImgToDB.ItemPage">
     <ContentPage.Content>
         <StackLayout>
-            <Frame BackgroundColor="#ccc" Margin="31 42 72 42">
+            <Frame BackgroundColor="#ccc" Margin="42, 31, 42, 72">
                 <Label Text="ok? test"/>
             </Frame>
-            <Frame BackgroundColor="#ccc" Margin="0 42 0 42">
+            <Frame BackgroundColor="#ccc" Margin="42, 0, 42, 0">
                 <Image/>
             </Frame>
         </StackLayout>
